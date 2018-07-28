@@ -1,0 +1,30 @@
+#menu {
+	width: 100%;
+	height: 12vh;
+	background-color: #666;
+}
+#menu ul{
+	margin: 0;
+	padding: 0;
+}
+
+#menu li{
+	list-style-type: none;
+	float:left;
+	display: block;
+	width: 20%;
+	height: 12vh;
+	text-align: center;
+	line-height: 11vh;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 1.5vw;
+}
+
+#menu li a {
+	text-decoration: none;
+	color: white;
+}
+
+#menu li:Hover {
+	background-color: lightblue;
+}

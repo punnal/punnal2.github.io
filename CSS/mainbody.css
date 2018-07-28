@@ -1,0 +1,39 @@
+/*Container*/
+
+#container {
+	width: 100%;
+	height: auto;
+	border-color: green;
+}
+
+/*Menu*/
+#menu {
+	width: 100%;
+	height: 12vh;
+	background-color: #666;
+}
+
+#main {
+	width: 75%;
+	height: 88vh;
+	float: left;
+	background-color: grey;
+}
+
+#main p{
+	position: absolute;
+}
+
+#right-bar {
+	width: 25%;
+	height: 88vh;
+	float: right;
+	background-color: blue;
+}
+
+#footer {
+	width: 100%;
+	height: 35vh;
+	background-color: black;
+	clear:both;
+}
