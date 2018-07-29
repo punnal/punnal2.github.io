@@ -1,7 +1,7 @@
 #menu {
 	width: 100%;
 	height: 12vh;
-	background-color: #666;
+	background-color: #5B6DF3;
 }
 #menu ul{
 	margin: 0;
@@ -26,5 +26,5 @@
 }
 
 #menu li:Hover {
-	background-color: lightblue;
+	background-color: #B3BBF7;
 }
